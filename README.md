@@ -29,7 +29,7 @@ https://developer.amazon.com/ja-JP/alexa/alexa-skills-kit#
 ポケモンの鳴き声ファイルは著作権の関係上ご自身でご用意ください。
 
 
-(外部)ポケモンGOの鳴き声ファイル
+(参考)ポケモンGOの鳴き声ファイル
 
 https://github.com/PokeMiners/pogo_assets/tree/master/Sounds/Pokemon%20Cries
 
