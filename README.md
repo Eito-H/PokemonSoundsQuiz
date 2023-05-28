@@ -13,6 +13,7 @@ Amazon Alexa Skill用のポケモン鳴き声クイズのコード一式です�
 ### Alexa「正解です」or「不正解です」or「よく聞き取れませんでした」
 ### 全部で1０問答えると、正解数を教えてくれます。 
 
+
 ## インストール方法
 ### Amazon Alexa SkillのDeveloper ConsoleでSkillを作成する
 https://developer.amazon.com/ja-JP/alexa/alexa-skills-kit#
