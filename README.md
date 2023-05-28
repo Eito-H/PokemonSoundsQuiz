@@ -28,3 +28,9 @@ https://developer.amazon.com/ja-JP/alexa/alexa-skills-kit#
 (外部)ポケモンGOの鳴き声ファイル
 https://github.com/PokeMiners/pogo_assets/tree/master/Sounds/Pokemon%20Cries
 ※Alexa skillではwavの再生に対応していないためmp3変換する必要あり
+
+## 世代の変更
+第１世代から第９世代まで対応しています。
+index.jsの11行目の引数を変えることで世代を変更できます。
+下記は第１世代を指定した場合
+``const nos = Generation.get_no(1);``
