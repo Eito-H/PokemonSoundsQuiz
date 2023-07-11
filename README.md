@@ -16,8 +16,6 @@ Amazon Alexaスキルでポケモン鳴き声クイズを作成できます。
 
 ## インストール方法
 ### Alexa Developer Consoleでスキルを作成
-https://developer.amazon.com/ja-JP/alexa/alexa-skills-kit#
-
 ### 作成途中にある「スキルをインポート」ボタンを押して本レポジトリを読み込む
 https://github.com/Eito-H/PokemonSoundsQuiz.git
 
